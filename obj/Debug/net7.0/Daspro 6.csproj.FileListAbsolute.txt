@@ -1,0 +1,28 @@
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 6\bin\Debug\net7.0\Daspro 6.exe
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 6\bin\Debug\net7.0\Daspro 6.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 6\bin\Debug\net7.0\Daspro 6.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 6\bin\Debug\net7.0\Daspro 6.dll
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 6\bin\Debug\net7.0\Daspro 6.pdb
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 6\obj\Debug\net7.0\Daspro 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 6\obj\Debug\net7.0\Daspro 6.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 6\obj\Debug\net7.0\Daspro 6.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 6\obj\Debug\net7.0\Daspro 6.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 6\obj\Debug\net7.0\Daspro 6.dll
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 6\obj\Debug\net7.0\refint\Daspro 6.dll
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 6\obj\Debug\net7.0\Daspro 6.pdb
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 6\obj\Debug\net7.0\Daspro 6.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\Daspro\Daspro 6\obj\Debug\net7.0\ref\Daspro 6.dll
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 6\bin\Debug\net7.0\Daspro 6.exe
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 6\bin\Debug\net7.0\Daspro 6.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 6\bin\Debug\net7.0\Daspro 6.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 6\bin\Debug\net7.0\Daspro 6.dll
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 6\bin\Debug\net7.0\Daspro 6.pdb
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 6\obj\Debug\net7.0\Daspro 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 6\obj\Debug\net7.0\Daspro 6.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 6\obj\Debug\net7.0\Daspro 6.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 6\obj\Debug\net7.0\Daspro 6.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 6\obj\Debug\net7.0\Daspro 6.dll
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 6\obj\Debug\net7.0\refint\Daspro 6.dll
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 6\obj\Debug\net7.0\Daspro 6.pdb
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 6\obj\Debug\net7.0\Daspro 6.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\Daspro 6\obj\Debug\net7.0\ref\Daspro 6.dll
